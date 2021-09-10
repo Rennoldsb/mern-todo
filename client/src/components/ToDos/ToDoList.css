@@ -1,0 +1,15 @@
+.tasklist {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1vw;
+}
+
+.tasklist:hover {
+  transform: scale(1.02) perspective(0px);
+  box-shadow: 4px 4px 4px rgba(60, 60, 93, 0.33);
+}
+
+.center {
+  margin-top: 25px;
+}

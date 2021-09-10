@@ -1,0 +1,27 @@
+.vert-middle {
+  margin-top: 5vw;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+
+.error {
+  position: absolute;
+  top: 175%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  text-align: center;
+}
+
+.button {
+  position: absolute;
+  top: 125%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.title {
+  text-align: center;
+  margin-top: 3vw;
+}
